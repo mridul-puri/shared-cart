@@ -7,3 +7,7 @@ Shared cart for group orders to make delivery free
 2. go to shared-cart-ui: `cd shared-cart-ui`
 3. run `npm install`
 4. start application: `npm start`
+
+## Starting Backend 
+1. Go to /shared-cart-backend/target
+2. Run : java -jar shared-cart-app-1.0.0.jar
